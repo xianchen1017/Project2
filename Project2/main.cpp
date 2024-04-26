@@ -2,5 +2,13 @@
 using namespace std;
 void main() {
 	cout << "666";
+	cout << "666";
+	cout << "666";
+	cout << "666";
+	cout << "666";
+	cout << "666";
+	cout << "666";
+	cout << "666";
+	cout << "666";
 
 }
