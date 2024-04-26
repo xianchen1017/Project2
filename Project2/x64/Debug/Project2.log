@@ -1,4 +1,3 @@
 ﻿  main.cpp
 D:\codettt\Project2\Project2\main.cpp(3,13): warning C4326: “main”的返回类型应为“int”而非“void”
-  LINK : 没有找到 D:\codettt\Project2\x64\Debug\Project2.exe 或上一个增量链接没有生成它；正在执行完全链接
   Project2.vcxproj -> D:\codettt\Project2\x64\Debug\Project2.exe
