@@ -4,26 +4,19 @@ void main() {
 	cout << "666";
 	cout << "666";
 	cout << "666";
-	cout << "666";
-	cout << "111";
-	cout << "111";
-	cout << "111";
-	cout << "111";
-	cout << "111";
-	cout << "111";
-	cout << "111";
-	cout << "111";
-	cout << "111";
-	cout << "111";
-	cout << "111";
-	cout << "111";
-	cout << "111";
-	cout << "111";
-	cout << "111";
-	cout << "111";
-	cout << "111";
-	cout << "111";
-	cout << "111";
-	cout << "111";
+	cout << "777";
+	cout << "777";
+	cout << "777";
+	cout << "777";
+	cout << "777";
+	cout << "777";
+	cout << "777";
+	cout << "777";
+	cout << "777";
+	cout << "777";
+	cout << "777";
+	cout << "777";
+	cout << "777";
+	
 
 }
